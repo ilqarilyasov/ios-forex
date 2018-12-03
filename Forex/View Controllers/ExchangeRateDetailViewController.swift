@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import ForexCore
 
 class ExchangeRateDetailViewController: UIViewController {
     
